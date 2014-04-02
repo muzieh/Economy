@@ -5,6 +5,7 @@
 *.suo
 *.user
 *.sln.docstates
+*.jmconfig
 
 # Build results
 [Dd]ebug/
